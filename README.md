@@ -1,4 +1,8 @@
 Hello-Github
 ============
 
-The first trial of Github
+Author: William.L <br>
+Email: wiliwe@gmail.com
+
+Installation
+-----------
