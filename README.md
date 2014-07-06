@@ -12,6 +12,6 @@ v.1.0
 
 Build
 -----
-Change directory **Hello-Github-master** and run command:
+Change to directory _Hello-Github-master_ and run command:
 
     # make
